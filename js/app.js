@@ -1,4 +1,7 @@
 //DOC READY WAITS FOR THE HTML TO LOAD BEFOR RUNNING CODE
+$(document).ready(function(){
+});
+
 var movies = ['Aladin', 'Fantasia', 'The Jungle Book', 'Bambi', 'The Lion King', 'Pinocchio', 'Peter Pan', 'Dumbo', 'Snow White and the Seven Dwarfs', 'Frozen', 'Alice In Wonderland', 'The Little Mermaid'];
 
 
